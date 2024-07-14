@@ -1,4 +1,4 @@
-<h2 align="left">Hey I am Punno. Currently a student.</h2>
+<h2 align="left">Hey I am Sidratul Punno. Currently wasting my time by studying.</h2>
 
 ###
 
