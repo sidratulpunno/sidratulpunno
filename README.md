@@ -14,9 +14,6 @@
   <a href="https://www.instagram.com/sidratulpunno/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sidratulpunno&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</div>
 
 ---
 
