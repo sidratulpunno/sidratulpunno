@@ -23,7 +23,6 @@
 - 🔬 Research focus: **Machine Learning for IoT & Network Security**, **Assistive AI**, and **Edge AI**
 - 🛠️ I build **production-grade Flutter apps**, **AI-powered systems**, and **IoT / embedded solutions**
 - 📄 Published in **IEEE conferences** and the **IJIEEB** journal
-- 🏅 **Dean's Award** (3 consecutive years) · **President's Scout Award**
 - 💡 Currently exploring **LLM fine-tuning**, **quantum-inspired ML**, and **embedded Linux (Yocto)**
 - ☕ When I'm not studying, I'm probably breaking a Linux build, tuning a GPU kernel, or overthinking a coffee brew
 
