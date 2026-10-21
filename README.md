@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **B.Sc. in IoT & Robotics Engineering** at **University of Frontier Technology, Bangladesh** — **CGPA 3.87 / 4.00**
+- 🎓 **B.Sc. in IoT & Robotics Engineering** at **University of Frontier Technology, Bangladesh** — **CGPA 3.87 / 4.00**
 - 🔬 Research focus: **Machine Learning for IoT & Network Security**, **Assistive AI**, and **Edge AI**
 - 🛠️ I build **production-grade Flutter apps**, **AI-powered systems**, and **IoT / embedded solutions**
 - 📄 Published in **IEEE conferences** and the **IJIEEB** journal
