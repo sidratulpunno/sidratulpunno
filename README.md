@@ -27,7 +27,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CGPA-3.87%2F4.00-059669?style=flat-square" alt="CGPA"/>
 <img src="https://img.shields.io/badge/IEEE-Publications-2563EB?style=flat-square" alt="IEEE publications"/>
 <img src="https://img.shields.io/badge/Focus-Research%20%26%20Engineering-7C3AED?style=flat-square" alt="Research and engineering"/>
 
